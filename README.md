@@ -1,2 +1,3 @@
 # Algorithms-and-Data-Structures
-Algorithms and Data Structures course 2020/21 AGH UST.
+
+This repository is a collective of algorithms and structures implemented and explained in Python. It does not contain 100% of the material of the entire course.
